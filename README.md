@@ -4,7 +4,7 @@
 
 🔍 **Instantly match resumes with job descriptions using advanced text analysis!**  
 
-![Resume Screener]([https://via.placeholder.com/800x400?text=Resume+Screener](https://i.ytimg.com/vi/hqu5EYMLCUw/maxresdefault.jpg))  
+![Resume Screener](https://i.ytimg.com/vi/hqu5EYMLCUw/maxresdefault.jpg)  
 
 ---
 
