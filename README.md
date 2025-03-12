@@ -4,7 +4,7 @@
 
 🔍 **Instantly match resumes with job descriptions using advanced text analysis!**  
 
-![Resume Screener](https://via.placeholder.com/800x400?text=Resume+Screener)  
+![Resume Screener]([https://via.placeholder.com/800x400?text=Resume+Screener](https://i.ytimg.com/vi/hqu5EYMLCUw/maxresdefault.jpg))  
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # 1️⃣ Clone the Repository
-git clone https://github.com/your-username/resume-screener.git
+git clone https://github.com/AwaisZarif/resume-screener.git
 cd resume-screener
 
 # 2️⃣ Install Dependencies
